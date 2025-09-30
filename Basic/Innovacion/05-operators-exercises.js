@@ -4,6 +4,17 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=6458
 */
 
 // 1. Crea una variable para cada operación aritmética
+let a = 2
+let b = 4
+let c = 6
+
+a+b
+c-a
+a*b
+c/a
+c%a
+b**a
+
 
 // 2. Crea una variable para cada tipo de operación de asignación,
 //    que haga uso de las variables utilizadas para las operaciones aritméticas
@@ -21,5 +32,6 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=6458
 // 8. Añade alguna negación
 
 // 9. Utiliza el operador ternario
+
 
 // 10. Combina operadores aritméticos, de comparáción y lógicas
