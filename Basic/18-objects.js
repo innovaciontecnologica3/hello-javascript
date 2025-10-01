@@ -8,9 +8,9 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=14229
 // Sintaxis
 
 let person = {
-    name: "Brais",
+    name: "innovacion",
     age: 37,
-    alias: "MoureDev"
+    alias: "innovacion3"
 }
 
 // Acceso a propiedades
@@ -117,3 +117,4 @@ console.log(person5.name)
 
 console.log(typeof person5)
 console.log(typeof person4)
+
